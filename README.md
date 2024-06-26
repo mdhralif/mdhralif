@@ -2,10 +2,6 @@
 
 **`A passionate (Web Developer/Game Developer/Graphics & ui-ux Designer)`**
 
-
-As a frontend developer, I am passionate about crafting engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, I have honed my skills in creating visually appealing and responsive websites that leave a lasting impression on users. From turning design concepts into interactive prototypes to optimizing web performance for faster loading times, I thrive on the challenges that come with frontend development. I pay meticulous attention to detail, ensuring that every element on the page aligns with the overall design and enhances the user experience.
-
-
 <div align="left"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
