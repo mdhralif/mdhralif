@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=30&pause=1000&random=false&width=435&lines=%F0%9F%98%8E+MD+H+R+ALIF)](https://git.io/typing-svg)
+
 **`A passionate (Web Developer/Game Developer/Graphics & ui-ux Designer)`**
 
 As a frontend developer, I am passionate about crafting engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, I have honed my skills in creating visually appealing and responsive websites that leave a lasting impression on users. From turning design concepts into interactive prototypes to optimizing web performance for faster loading times, I thrive on the challenges that come with frontend development. I pay meticulous attention to detail, ensuring that every element on the page aligns with the overall design and enhances the user experience.
