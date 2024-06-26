@@ -43,6 +43,18 @@ As a frontend developer, I am passionate about crafting engaging and user-friend
 <img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
 
 
+### 📺 Latest Projects
+
+![Project 1](https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg)
+![Project 2](https://raw.githubusercontent.com/mdhralif/portfolio/main/NexTalk.png)
+![Project 3](https://raw.githubusercontent.com/mdhralif/portfolio/main/bus.png)
+![Project 4](https://raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg)
+
+![Project 5](https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg)
+![Project 6](https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg)
+![Project 7](https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg)
+
+
 
 
 
