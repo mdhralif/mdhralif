@@ -39,45 +39,4 @@
 
 
 
-### 📺 Latest Projects
-
-<img align="left" alt="Java" width="232px" style="padding-right:10px;" src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
-<img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/NexTalk.png"/>
-<img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/bus.png"/>
-<img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg"/>
-
-
-<img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
-<img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
-<img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
-<img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
-
-<img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
-<img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
-<img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
-<img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
-
-
-<h2 align="left">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  ![mdhralif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhralif&show_icons=true&theme=gruvbox)
-  <img width=390 src="https://github-readme-streak-stats-mdhralif.vercel.app/?user=mdhralif&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-mdhralif.vercel.app/api?username=mdhralif&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-mdhralif.vercel.app/api/top-langs/?username=mdhralif&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-
-
-
-
-
-
 
