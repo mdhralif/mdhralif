@@ -50,6 +50,40 @@ As a frontend developer, I am passionate about crafting engaging and user-friend
 [![So, you want to be a programmer?](https://ytcards.demolab.com/?id=LV_r2ahaKto&title=So%2C+you+want+to+be+a+programmer%3F&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1243 "So, you want to be a programmer?")](https://www.youtube.com/watch?v=LV_r2ahaKto)
 [![A Complete Overview of DevOps](https://ytcards.demolab.com/?id=zG1cM9VSINg&title=A+Complete+Overview+of+DevOps&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=867 "A Complete Overview of DevOps")](https://www.youtube.com/watch?v=zG1cM9VSINg)
 [![Win this RTX 4090 signed by Jensen Huang](https://ytcards.demolab.com/?id=VybxPh8Trls&title=Win+this+RTX+4090+signed+by+Jensen+Huang&lang=en&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Win this RTX 4090 signed by Jensen Huang")](https://www.youtube.com/watch?v=VybxPh8Trls)
+
+<!-- Card 1 -->
+<div style="width: 250px; background-color: #0d1117; border-radius: 5px; overflow: hidden; margin-bottom: 20px;">
+  <a href="https://www.youtube.com/watch?v=8deKXiV-eLE" style="text-decoration: none; color: inherit; display: block;">
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img1.png" alt="Project 1" style="width: 100%; border-radius: 5px 5px 0 0;">
+    <div style="padding: 10px; color: white;">
+      <p style="margin: 0; font-weight: bold;">Project 1</p>
+      <p style="margin: 5px 0 0; font-size: 0.8em;">Description or additional info here...</p>
+    </div>
+  </a>
+</div>
+
+<!-- Card 2 -->
+<div style="width: 250px; background-color: #0d1117; border-radius: 5px; overflow: hidden; margin-bottom: 20px;">
+  <a href="https://www.youtube.com/watch?v=video2_id" style="text-decoration: none; color: inherit; display: block;">
+    <img src="https://example.com/img2.png" alt="Project 2" style="width: 100%; border-radius: 5px 5px 0 0;">
+    <div style="padding: 10px; color: white;">
+      <p style="margin: 0; font-weight: bold;">Project 2</p>
+      <p style="margin: 5px 0 0; font-size: 0.8em;">Description or additional info here...</p>
+    </div>
+  </a>
+</div>
+
+<!-- Card 3 -->
+<div style="width: 250px; background-color: #0d1117; border-radius: 5px; overflow: hidden; margin-bottom: 20px;">
+  <a href="https://www.youtube.com/watch?v=video3_id" style="text-decoration: none; color: inherit; display: block;">
+    <img src="https://example.com/img3.png" alt="Project 3" style="width: 100%; border-radius: 5px 5px 0 0;">
+    <div style="padding: 10px; color: white;">
+      <p style="margin: 0; font-weight: bold;">Project 3</p>
+      <p style="margin: 5px 0 0; font-size: 0.8em;">Description or additional info here...</p>
+    </div>
+  </a>
+</div>
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
