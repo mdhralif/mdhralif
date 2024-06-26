@@ -41,6 +41,14 @@
 #
 ![alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhralif&show_icons=true&theme=gruvbox)
 <div align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mdhralif&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdhralif&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhralif&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mdhralif&icon=0&color=0)](https://visitcount.itsvg.in)
+
   
   <img width=325 align="center" src="https://github-readme-stats-mdhralif.vercel.app/api/top-langs/?username=mdhralif&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
