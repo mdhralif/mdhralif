@@ -47,7 +47,7 @@
 ###
 <div align="center">
   <h2>My Contributions 🛂 </h2>
-  ---
+  
   <img src="https://raw.githubusercontent.com/mdhralif/mdhralif/output/snake.svg" alt="Snake animation" />
 
   ---
