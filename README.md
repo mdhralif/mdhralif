@@ -62,7 +62,7 @@ As a frontend developer, I am passionate about crafting engaging and user-friend
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mdhralif/mdhralif/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
