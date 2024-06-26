@@ -59,8 +59,8 @@
 <br />
 
 
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<hr/>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   ![mdhralif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhralif&show_icons=true&theme=gruvbox)
