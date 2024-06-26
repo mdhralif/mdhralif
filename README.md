@@ -38,11 +38,8 @@
 <img align="left" alt="unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" />
 <br />
 
-#
-![alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhralif&show_icons=true&theme=gruvbox)
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdhralif&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhralif&show_icons=true&theme=gruvbox)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdhralif&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhralif&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
