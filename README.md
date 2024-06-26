@@ -61,11 +61,9 @@
 #
 
 
-### 📊 Stats
 
-![mdhralif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhralif&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
 
 #
 
@@ -75,6 +73,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+  ![mdhralif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhralif&show_icons=true&theme=gruvbox)
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
