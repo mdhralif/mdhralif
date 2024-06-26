@@ -5,7 +5,7 @@
 
 ###
 
-*`A passionate (Web Developer/Game Developer/Graphics & ui-ux Designer)`*
+#**`A passionate (Web Developer/Game Developer/Graphics & ui-ux Designer)`**#
 
 
 <div align="left"> 
