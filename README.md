@@ -38,6 +38,8 @@ As a frontend developer, I am passionate about crafting engaging and user-friend
 [![Social Media Prototyping](https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png)](https://www.youtube.com/watch?v=8deKXiV-eLE)
 [![Social Media Prototyping](https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png)](https://www.youtube.com/watch?v=8deKXiV-eLE)
 [![Social Media Prototyping](https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png)](https://www.youtube.com/watch?v=8deKXiV-eLE)
+[![Social Media Prototyping](https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png){:width="200px" height="150px"}](https://www.youtube.com/watch?v=8deKXiV-eLE)
+
 
 
 
