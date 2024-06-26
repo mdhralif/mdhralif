@@ -39,6 +39,9 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/mdhralif/mdhralif/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
