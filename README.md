@@ -4,7 +4,7 @@
 
 As a frontend developer, I am passionate about crafting engaging and user-friendly web experiences. With a strong foundation in HTML, CSS, and JavaScript, I have honed my skills in creating visually appealing and responsive websites that leave a lasting impression on users. From turning design concepts into interactive prototypes to optimizing web performance for faster loading times, I thrive on the challenges that come with frontend development. I pay meticulous attention to detail, ensuring that every element on the page aligns with the overall design and enhances the user experience.
 
----
+
 
 ### 🧰 Languages and Tools
 
@@ -49,7 +49,7 @@ As a frontend developer, I am passionate about crafting engaging and user-friend
 
 #
 
-
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
