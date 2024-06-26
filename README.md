@@ -33,44 +33,21 @@ As a frontend developer, I am passionate about crafting engaging and user-friend
 <!-- BEGIN YOUTUBE-CARDS -->
 ### 📺 Latest Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+### 📺 Latest Projects
 
-  <!-- Card 1 -->
-  <a href="https://www.youtube.com/watch?v=8deKXiV-eLE" style="text-decoration: none; color: inherit;">
-    <div style="border: 5px solid white; padding: 10px; background-color: #333; color: white; width: 300px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png" alt="Custom Image" width="250" style="border-radius: 5px;">
-      <div style="margin-top: 5px; color: inherit;">Social Media Prototyping</div>
-    </div>
-  </a>
+[![Social Media Prototyping](https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png)](https://www.youtube.com/watch?v=8deKXiV-eLE)
 
-  <!-- Card 2 -->
-  <a href="https://www.youtube.com/watch?v=8deKXiV-eLE" style="text-decoration: none; color: inherit;">
-    <div style="border: 5px solid white; padding: 10px; background-color: #333; color: white; width: 300px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png" alt="Custom Image" width="250" style="border-radius: 5px;">
-      <div style="margin-top: 5px; color: inherit;">Social Media Prototyping</div>
-    </div>
-  </a>
+[![I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind](https://ytcards.demolab.com/?id=f_ZxgQQ74Lc&title=I+Built+a+3D+Developer+Portfolio+Website+%2F%2F+Three.js+%2B+React+%2B+Tailwind&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508 "I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind")](https://www.youtube.com/watch?v=f_ZxgQQ74Lc)
 
-  <!-- Card 3 -->
-  <a href="https://www.youtube.com/watch?v=8deKXiV-eLE" style="text-decoration: none; color: inherit;">
-    <div style="border: 5px solid white; padding: 10px; background-color: #333; color: white; width: 300px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png" alt="Custom Image" width="250" style="border-radius: 5px;">
-      <div style="margin-top: 5px; color: inherit;">Social Media Prototyping</div>
-    </div>
-  </a>
+[![The ULTIMATE Pioneers of Computer Science](https://ytcards.demolab.com/?id=9904LHBwSL8&title=The+ULTIMATE+Pioneers+of+Computer+Science&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "The ULTIMATE Pioneers of Computer Science")](https://www.youtube.com/watch?v=9904LHBwSL8)
 
-  <!-- Card 4 -->
-  <a href="https://www.youtube.com/watch?v=8deKXiV-eLE" style="text-decoration: none; color: inherit;">
-    <div style="border: 5px solid white; padding: 10px; background-color: #333; color: white; width: 300px; text-align: center;">
-      <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png" alt="Custom Image" width="250" style="border-radius: 5px;">
-      <div style="margin-top: 5px; color: inherit;">Social Media Prototyping</div>
-    </div>
-  </a>
+[![So, you want to be a programmer?](https://ytcards.demolab.com/?id=LV_r2ahaKto&title=So%2C+you+want+to+be+a+programmer%3F&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1243 "So, you want to be a programmer?")](https://www.youtube.com/watch?v=LV_r2ahaKto)
 
-</div>
+[![A Complete Overview of DevOps](https://ytcards.demolab.com/?id=zG1cM9VSINg&title=A+Complete+Overview+of+DevOps&lang=en&timestamp=1712845830&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=867 "A Complete Overview of DevOps")](https://www.youtube.com/watch?v=zG1cM9VSINg)
 
+[![Win this RTX 4090 signed by Jensen Huang](https://ytcards.demolab.com/?id=VybxPh8Trls&title=Win+this+RTX+4090+signed+by+Jensen+Huang&lang=en&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Win this RTX 4090 signed by Jensen Huang")](https://www.youtube.com/watch?v=VybxPh8Trls)
 
-
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 [![I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind](https://ytcards.demolab.com/?id=f_ZxgQQ74Lc&title=I+Built+a+3D+Developer+Portfolio+Website+%2F%2F+Three.js+%2B+React+%2B+Tailwind&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508 "I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind")](https://www.youtube.com/watch?v=f_ZxgQQ74Lc)
 [![The ULTIMATE Pioneers of Computer Science](https://ytcards.demolab.com/?id=9904LHBwSL8&title=The+ULTIMATE+Pioneers+of+Computer+Science&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "The ULTIMATE Pioneers of Computer Science")](https://www.youtube.com/watch?v=9904LHBwSL8)
