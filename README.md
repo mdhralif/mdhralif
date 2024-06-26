@@ -50,9 +50,10 @@ As a frontend developer, I am passionate about crafting engaging and user-friend
 
 #
 
+
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhralif&show_icons=true&theme=gruvbox)
+![mdhralif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhralif&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
