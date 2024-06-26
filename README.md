@@ -56,10 +56,8 @@
 <img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
 <img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
 <img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
-<br />
 
 
-<hr/>
 <h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
