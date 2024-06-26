@@ -22,7 +22,7 @@
 
 
 
-### 🧰 Languages and Tools
+###Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -43,7 +43,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhralif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
----
+
 ###
 <div align="center">
   <h2>My Contributions</h2>
