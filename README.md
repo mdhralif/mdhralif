@@ -46,7 +46,7 @@
 ---
 ###
 <div align="center">
-  <h2>My Contributions 🛂 </h2>
+  <h1 style="font-weight:bold">My Contributions 🛂 </h1>
   
   <img src="https://raw.githubusercontent.com/mdhralif/mdhralif/output/snake.svg" alt="Snake animation" />
 
