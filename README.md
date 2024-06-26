@@ -36,38 +36,10 @@ As a frontend developer, I am passionate about crafting engaging and user-friend
 <img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg"/>
 
 
-
-<br style="clear:both;">
 <img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
 <img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
 <img align="left" alt="Java" width="232px" style="padding-right:10px; " src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg"/>
 
-
-### 📺 Latest Projects
-
-<!-- Project 1 -->
-<div style="display: inline-block; border: 1px solid #ccc; padding: 10px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg" alt="Project 1" width="200px">
-    <p>Project 1 Description or Title</p>
-</div>
-
-<!-- Project 2 -->
-<div style="display: inline-block; border: 1px solid #ccc; padding: 10px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/NexTalk.png" alt="Project 2" width="200px">
-    <p>Project 2 Description or Title</p>
-</div>
-
-<!-- Project 3 -->
-<div style="display: inline-block; border: 1px solid #ccc; padding: 10px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/bus.png" alt="Project 3" width="200px">
-    <p>Project 3 Description or Title</p>
-</div>
-
-<!-- Project 4 -->
-<div style="display: inline-block; border: 1px solid #ccc; padding: 10px; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg" alt="Project 4" width="200px">
-    <p>Project 4 Description or Title</p>
-</div>
 
 
 
