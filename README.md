@@ -31,7 +31,13 @@ As a frontend developer, I am passionate about crafting engaging and user-friend
 ### 📺 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Social Media Demo Prototype ](https://ytcards.demolab.com/?id=8deKXiV-eLE&title=How+to+Automate+Your+Developer+Workflow&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876 "How to Automate Your Developer Workflow")](https://www.youtube.com/watch?v=8deKXiV-eLE)
+<a href="https://www.youtube.com/watch?v=8deKXiV-eLE" style="text-decoration: none;">
+  <div style="text-align: center; display: inline-block; border: 5px solid #0d1117; border-radius: 5px; overflow: hidden; width: 250px;">
+    <img src="https://ytcards.demolab.com/?id=8deKXiV-eLE&title=How+to+Automate+Your+Developer+Workflow&lang=en&timestamp=1717768812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=876" alt="How to Automate Your Developer Workflow" style="width: 100%; height: auto;">
+    <div style="padding: 10px; background-color: #0d1117; color: #ffffff; text-align: center; font-size: 16px; line-height: 1.2; margin-top: -4px;">How to Automate Your Developer Workflow</div>
+  </div>
+</a>
+
 [![I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind](https://ytcards.demolab.com/?id=f_ZxgQQ74Lc&title=I+Built+a+3D+Developer+Portfolio+Website+%2F%2F+Three.js+%2B+React+%2B+Tailwind&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508 "I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind")](https://www.youtube.com/watch?v=f_ZxgQQ74Lc)
 [![The ULTIMATE Pioneers of Computer Science](https://ytcards.demolab.com/?id=9904LHBwSL8&title=The+ULTIMATE+Pioneers+of+Computer+Science&lang=en&timestamp=1715094012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1096 "The ULTIMATE Pioneers of Computer Science")](https://www.youtube.com/watch?v=9904LHBwSL8)
 [![So, you want to be a programmer?](https://ytcards.demolab.com/?id=LV_r2ahaKto&title=So%2C+you+want+to+be+a+programmer%3F&lang=en&timestamp=1714658415&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1243 "So, you want to be a programmer?")](https://www.youtube.com/watch?v=LV_r2ahaKto)
