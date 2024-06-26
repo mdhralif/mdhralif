@@ -34,7 +34,6 @@ As a frontend developer, I am passionate about crafting engaging and user-friend
 <a href="https://www.youtube.com/watch?v=8deKXiV-eLE" style="text-decoration: none; color: inherit;">
   <div style="border: 5px solid white; padding: 10px; background-color: #333; color: white; width: 300px; text-align: center;">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png" alt="Custom Image" width="250" style="border-radius: 5px;">
-    <div style="margin-top: 5px; color: inherit;">Social Media Prototyping</div>
   </div>
 </a>
 
