@@ -39,11 +39,13 @@
 </div>
 
 ###
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img src="https://raw.githubusercontent.com/mdhralif/mdhralif/output/snake.svg" alt="Snake animation" />
+  
+  <br/><br/><br/>
 </div>
-<img src="https://raw.githubusercontent.com/mdhralif/mdhralif/output/snake.svg" alt="Snake animation" />
 
 ###
 
