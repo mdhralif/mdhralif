@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=30&pause=1000&random=false&width=435&lines=%F0%9F%98%8E+MD+H+R+ALIF)](https://git.io/typing-svg)
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952nrvlb9yb2gk5b6sez63lio2lr0vq271qbnnzrmkk&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
