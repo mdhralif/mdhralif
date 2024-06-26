@@ -40,7 +40,7 @@
 
 #
 ![alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhralif&show_icons=true&theme=gruvbox)
-<div align="center">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mdhralif&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdhralif&theme=dark&hide_border=true)<br/>
