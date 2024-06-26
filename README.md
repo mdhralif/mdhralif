@@ -31,10 +31,10 @@ As a frontend developer, I am passionate about crafting engaging and user-friend
 ### 📺 Latest Projects
 
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png"/>
+<img align="left" alt="Java" width="250px" style="padding-right:10px;" src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png"/>
+<img align="left" alt="Java" width="250px" style="padding-right:10px;" src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png"/>
+<img align="left" alt="Java" width="250px" style="padding-right:10px;" src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png"/>
+<img align="left" alt="Java" width="250px" style="padding-right:10px;" src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png"/>
 
 
 
