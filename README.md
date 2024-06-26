@@ -31,11 +31,42 @@ As a frontend developer, I am passionate about crafting engaging and user-friend
 ### 📺 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=8deKXiV-eLE" style="text-decoration: none; color: inherit;">
-  <div style="border: 5px solid white; padding: 10px; background-color: #333; color: white; width: 300px; text-align: center;">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png" alt="Custom Image" width="250" style="border-radius: 5px;">
-  </div>
-</a>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+
+  <!-- Card 1 -->
+  <a href="https://www.youtube.com/watch?v=8deKXiV-eLE" style="text-decoration: none; color: inherit;">
+    <div style="border: 5px solid white; padding: 10px; background-color: #333; color: white; width: 300px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png" alt="Custom Image" width="250" style="border-radius: 5px;">
+      <div style="margin-top: 5px; color: inherit;">Social Media Prototyping</div>
+    </div>
+  </a>
+
+  <!-- Card 2 -->
+  <a href="https://www.youtube.com/watch?v=8deKXiV-eLE" style="text-decoration: none; color: inherit;">
+    <div style="border: 5px solid white; padding: 10px; background-color: #333; color: white; width: 300px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png" alt="Custom Image" width="250" style="border-radius: 5px;">
+      <div style="margin-top: 5px; color: inherit;">Social Media Prototyping</div>
+    </div>
+  </a>
+
+  <!-- Card 3 -->
+  <a href="https://www.youtube.com/watch?v=8deKXiV-eLE" style="text-decoration: none; color: inherit;">
+    <div style="border: 5px solid white; padding: 10px; background-color: #333; color: white; width: 300px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png" alt="Custom Image" width="250" style="border-radius: 5px;">
+      <div style="margin-top: 5px; color: inherit;">Social Media Prototyping</div>
+    </div>
+  </a>
+
+  <!-- Card 4 -->
+  <a href="https://www.youtube.com/watch?v=8deKXiV-eLE" style="text-decoration: none; color: inherit;">
+    <div style="border: 5px solid white; padding: 10px; background-color: #333; color: white; width: 300px; text-align: center;">
+      <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/img.png" alt="Custom Image" width="250" style="border-radius: 5px;">
+      <div style="margin-top: 5px; color: inherit;">Social Media Prototyping</div>
+    </div>
+  </a>
+
+</div>
+
 
 
 [![I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind](https://ytcards.demolab.com/?id=f_ZxgQQ74Lc&title=I+Built+a+3D+Developer+Portfolio+Website+%2F%2F+Three.js+%2B+React+%2B+Tailwind&lang=en&timestamp=1717164035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=508 "I Built a 3D Developer Portfolio Website // Three.js + React + Tailwind")](https://www.youtube.com/watch?v=f_ZxgQQ74Lc)
