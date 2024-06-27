@@ -55,11 +55,10 @@
 
 
 </div>
+
 <div align="left">
   <h1 style="font-weight:bold"># Latest Projects:</h1>
-  <img src="https://raw.githubusercontent.com/mdhralif/mdhralif/output/snake.svg" alt="Snake animation" />
-
-
+  <img src="" alt="Snake animation" />
 </div>
 
 
