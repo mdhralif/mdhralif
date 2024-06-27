@@ -62,7 +62,7 @@
 
 <div align="center">
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/iut-web.jpg" alt="iut_web_prototyping" width="250"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/iut_web.jpg" alt="iut_web_prototyping" width="250"/>
   </a>
   <a href="https://github.com/mdhralif">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/prtflo.jpg" alt="portfolio" width="250"/>
