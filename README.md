@@ -65,28 +65,28 @@
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/iut-web.jpg" alt="iut_web_prototyping" width="250"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https:///raw.githubusercontent.com/mdhralif/portfolio/main/prtflo.jpg" alt="portfolio" width="250"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/prtflo.jpg" alt="portfolio" width="250"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https:///raw.githubusercontent.com/mdhralif/portfolio/main/ecom.jpg" alt="WIX-E-commerce_website" width="250"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/ecom.jpg" alt="WIX-E-commerce_website" width="250"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https:///raw.githubusercontent.com/mdhralif/portfolio/main/Flupp.jpg" alt="Fluppy_Bird_Game" width="250"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/Flupp.jpg" alt="Fluppy_Bird_Game" width="250"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="/raw.githubusercontent.com/mdhralif/portfolio/main/minecraft.png" alt="Minecraft_Prototyping" width="250"/>
+    <img src="//raw.githubusercontent.com/mdhralif/portfolio/main/minecraft.png" alt="Minecraft_Prototyping" width="250"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="/raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg" alt="2V2_Fighting_Game" width="250"/>
+    <img src="//raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg" alt="2V2_Fighting_Game" width="250"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="/raw.githubusercontent.com/mdhralif/portfolio/main/graph.jpg" alt="Console_Advance_Graph_Calculator" width="250"/>
+    <img src="//raw.githubusercontent.com/mdhralif/portfolio/main/graph.jpg" alt="Console_Advance_Graph_Calculator" width="250"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="/raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg" alt="Basic_Calculator" width="250"/>
+    <img src="//raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg" alt="Basic_Calculator" width="250"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="/raw.githubusercontent.com/mdhralif/portfolio/main/iut-web.jpg" alt="Profile Animation" width="250"/>
+    <img src="//raw.githubusercontent.com/mdhralif/portfolio/main/iut-web.jpg" alt="Profile Animation" width="250"/>
   </a>
 </div>
 
