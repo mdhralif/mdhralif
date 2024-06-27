@@ -56,7 +56,7 @@
 
 </div>
 
-<div align="left">
+<div align="center">
   <h1 style="font-weight:bold">Latest Projects:</h1>
 </div>
 
