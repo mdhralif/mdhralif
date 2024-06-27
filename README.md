@@ -57,8 +57,7 @@
 </div>
 
 <div align="left">
-  <h1 style="font-weight:bold"># Latest Projects:</h1>
-  <img src="" alt="Snake animation" />
+  <h1 style="font-weight:bold">Latest Projects:</h1>
 </div>
 
 
