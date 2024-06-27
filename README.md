@@ -77,7 +77,7 @@
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/minecraft.png" alt="Minecraft_Prototyping" width="250"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="//raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg" alt="2V2_Fighting_Game" width="250"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg" alt="2V2_Fighting_Game" width="250"/>
   </a>
   <a href="https://github.com/mdhralif">
     <img src="//raw.githubusercontent.com/mdhralif/portfolio/main/graph.jpg" alt="Console_Advance_Graph_Calculator" width="250"/>
