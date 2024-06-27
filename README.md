@@ -60,5 +60,7 @@
   <h1 style="font-weight:bold">Latest Projects:</h1>
 </div>
 
+<img align="left" height="200" src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif"  />
+
 
 
