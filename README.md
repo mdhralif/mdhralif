@@ -62,13 +62,13 @@
 
 <div align="center">
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/iut_web.jpg" alt="iut_web_prototyping" width="270"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/iut_web.jpg" alt="iut_web_prototyping" width="275"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/prtflo.jpg" alt="portfolio" width="270"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/prtflo.jpg" alt="portfolio" width="275"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/ecom.jpg" alt="WIX-E-commerce_website" width="270"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/ecom.jpg" alt="WIX-E-commerce_website" width="275"/>
   </a>
   <a href="https://github.com/mdhralif">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/Flupp.jpg" alt="Fluppy_Bird_Game" width="250"/>
