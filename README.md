@@ -71,7 +71,6 @@
   <a href="https://github.com/mdhralif">
     <img src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif" alt="Profile Animation" width="250"/>
   </a>
-
   <!-- Row 2 -->
   <br>
   <a href="https://github.com/mdhralif">
@@ -83,7 +82,6 @@
   <a href="https://github.com/mdhralif">
     <img src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif" alt="Profile Animation" width="250"/>
   </a>
-
   <!-- Row 3 -->
   <br>
   <a href="https://github.com/mdhralif">
