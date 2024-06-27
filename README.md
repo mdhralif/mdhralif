@@ -1,6 +1,6 @@
 ###
 
-<img align="right" height="250" src="https://github.com/mdhralif/mdhralif/blob/main/Gif.gif"  />
+<img align="right" height="240" src="https://github.com/mdhralif/mdhralif/blob/main/Gif.gif"  />
 
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=30&pause=1000&random=false&width=435&lines=%F0%9F%98%8E+MD+H+R+ALIF)](https://git.io/typing-svg)
