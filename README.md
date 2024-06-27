@@ -100,13 +100,5 @@
 </div>
 
 
-<div align="center">
-  <!-- Row 1 -->
-  <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/bus.png" alt="Profile Animation" width="200" style="border: 2px solid #000; border-radius: 10px;"/>
-    </a>
-</div>
-
-
 
 
