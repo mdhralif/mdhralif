@@ -60,12 +60,43 @@
   <h1 style="font-weight:bold">Latest Projects:</h1>
 </div>
 
-<img align="left" padding="10px" height="200" src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif"  />
-<img align="left" height="200" src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif"  />
-<img align="left" height="200" src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif"  />
-<img align="left" height="200" src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif"  />
-<img align="left" height="200" src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif"  />
-<img align="left" height="200" src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif"  />
+<div align="center">
+  <!-- Row 1 -->
+  <a href="https://github.com/mdhralif">
+    <img src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif" alt="Profile Animation" width="200"/>
+  </a>
+  <a href="https://github.com/mdhralif">
+    <img src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif" alt="Profile Animation" width="200"/>
+  </a>
+  <a href="https://github.com/mdhralif">
+    <img src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif" alt="Profile Animation" width="200"/>
+  </a>
+
+  <!-- Row 2 -->
+  <br>
+  <a href="https://github.com/mdhralif">
+    <img src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif" alt="Profile Animation" width="200"/>
+  </a>
+  <a href="https://github.com/mdhralif">
+    <img src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif" alt="Profile Animation" width="200"/>
+  </a>
+  <a href="https://github.com/mdhralif">
+    <img src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif" alt="Profile Animation" width="200"/>
+  </a>
+
+  <!-- Row 3 -->
+  <br>
+  <a href="https://github.com/mdhralif">
+    <img src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif" alt="Profile Animation" width="200"/>
+  </a>
+  <a href="https://github.com/mdhralif">
+    <img src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif" alt="Profile Animation" width="200"/>
+  </a>
+  <a href="https://github.com/mdhralif">
+    <img src="https://github.com/mdhralif/mdhralif/blob/main/gif.gif" alt="Profile Animation" width="200"/>
+  </a>
+</div>
+
 
 
 
