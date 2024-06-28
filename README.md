@@ -19,13 +19,14 @@
   <a href="https://mdhralif.github.io/portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+  <a href="https://fb.com/https://www.facebook.com/mdhr.alif.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdhr.alif.4" height="30" width="40" /></a>
+</p>
 </div>
 
 
 
 <br/>
-<a href="https://fb.com/https://www.facebook.com/mdhr.alif.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdhr.alif.4" height="30" width="40" /></a>
-</p>
+
 
 
 ## Programming Languages
