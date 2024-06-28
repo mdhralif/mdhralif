@@ -19,7 +19,7 @@
   <a href=" https://mail.google.com/mail/u/?authuser=hasiburrahman999.alif@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/mdhr.alif.4" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdhr.alif.4" height="30" width="40" /></a>
+  <a href="https://fb.com/https://www.facebook.com/mdhr.alif.4" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mdhr.alif.4" height="25" width="40" /></a>
 </div>
 
 
