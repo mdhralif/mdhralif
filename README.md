@@ -54,6 +54,21 @@
 <img align="left" alt="Neo4j" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg"/>
 <br /><br />
 
+### Framework & Game Engine
+
+<img align="left" alt=".Net_Framework" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
+
+<br /><br />
+
+### Illustration Tools
+
+<img align="left" alt="Ai" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
+<img align="left" alt="Ps" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+<br /><br />
+
 
 # 📊 GitHub Stats:
 ![alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhralif&show_icons=true&theme=gruvbox)
