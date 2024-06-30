@@ -96,7 +96,7 @@
   <h1 style="font-weight:bold">Latest Projects 🛠️</h1>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/mdhralif">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/iut_web.jpg" alt="iut_web_prototyping" width="195"/>
   </a>
