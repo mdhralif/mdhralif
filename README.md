@@ -110,25 +110,25 @@
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/minecraft.png" alt="Minecraft_Prototyping" width="180"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg" alt="2V2_Fighting_Game" width="160"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg" alt="2V2_Fighting_Game" width="180"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/nexbook.png" alt="Social_Media_Prototyping" width="160"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/nexbook.png" alt="Social_Media_Prototyping" width="180"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/NexTalk.png" alt="Realtime_Chat_App" width="160"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/NexTalk.png" alt="Realtime_Chat_App" width="180"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/inventory.png" alt="Inventory_mManagement_System" width="160"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/inventory.png" alt="Inventory_mManagement_System" width="180"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/graph.jpg" alt="Console_Advance_Graph_Calculator" width="160"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/graph.jpg" alt="Console_Advance_Graph_Calculator" width="180"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg" alt="Basic_Calculator" width="160"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg" alt="Basic_Calculator" width="180"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/bus.png" alt="Bus_Reservationn_System" width="160"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/bus.png" alt="Bus_Reservationn_System" width="180"/>
   </a>
 </div>
 
