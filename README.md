@@ -86,13 +86,6 @@
 </div>
 
 <div align="left">
-  <h1 style="font-weight:bold">My Contributions 🛂 </h1>
-  <img src="https://raw.githubusercontent.com/mdhralif/mdhralif/output/snake.svg" alt="Snake animation" />
-
-
-</div>
-
-<div align="left">
   <h1 style="font-weight:bold">Latest Projects 🛠️</h1>
 </div>
 
@@ -134,6 +127,15 @@
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/bus.png" alt="Bus_Reservationn_System" width="195"/>
   </a>
 </div>
+
+<div align="left">
+  <h1 style="font-weight:bold">My Contributions 🛂 </h1>
+  <img src="https://raw.githubusercontent.com/mdhralif/mdhralif/output/snake.svg" alt="Snake animation" />
+
+
+</div>
+
+
 
 
 
