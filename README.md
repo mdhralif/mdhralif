@@ -128,13 +128,12 @@
   </a>
 </div>
 
-<div height="100"></div>
 
+###
+#
 <div align="center">
   <h1 style="font-weight:bold">My Contributions 🛂</h1>
   <img src="https://raw.githubusercontent.com/mdhralif/mdhralif/output/snake.svg" alt="Snake animation" />
-
-
 </div>
 
 
