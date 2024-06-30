@@ -92,7 +92,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
   <h1 style="font-weight:bold">Latest Projects 🛠️</h1>
 </div>
 
