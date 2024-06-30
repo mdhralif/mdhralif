@@ -78,7 +78,7 @@
 
 
 <div align="center">
-  <h1 style="font-weight:bold">📊 GitHub Stats</h1>
+  <h1 style="font-weight:bold">GitHub Statistics 📊 </h1>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdhralif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
