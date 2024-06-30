@@ -95,40 +95,40 @@
 
 <div align="center">
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/iut_web.jpg" alt="iut_web_prototyping" width="150"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/iut_web.jpg" alt="iut_web_prototyping" width="160"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/prtflo.jpg" alt="portfolio" width="150"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/prtflo.jpg" alt="portfolio" width="160"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/ecom.jpg" alt="WIX-E-commerce_website" width="150"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/ecom.jpg" alt="WIX-E-commerce_website" width="160"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/Flupp.jpg" alt="Fluppy_Bird_Game" width="150"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/Flupp.jpg" alt="Fluppy_Bird_Game" width="160"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/minecraft.png" alt="Minecraft_Prototyping" width="150"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/minecraft.png" alt="Minecraft_Prototyping" width="160"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg" alt="2V2_Fighting_Game" width="150"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg" alt="2V2_Fighting_Game" width="160"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/nexbook.png" alt="Social_Media_Prototyping" width="150"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/nexbook.png" alt="Social_Media_Prototyping" width="160"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/NexTalk.png" alt="Realtime_Chat_App" width="150"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/NexTalk.png" alt="Realtime_Chat_App" width="160"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/inventory.png" alt="Inventory_mManagement_System" width="150"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/inventory.png" alt="Inventory_mManagement_System" width="160"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/graph.jpg" alt="Console_Advance_Graph_Calculator" width="150"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/graph.jpg" alt="Console_Advance_Graph_Calculator" width="160"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg" alt="Basic_Calculator" width="150"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg" alt="Basic_Calculator" width="160"/>
   </a>
   <a href="https://github.com/mdhralif">
-    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/bus.png" alt="Bus_Reservationn_System" width="150"/>
+    <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/bus.png" alt="Bus_Reservationn_System" width="160"/>
   </a>
 </div>
 
