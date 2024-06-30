@@ -86,7 +86,7 @@
 </div>
 
 <div align="left">
-  <h1 style="font-weight:bold">Latest Projects 🛠️</h1>
+  <h1 style="font-weight:bold">🛠️ Latest Projects</h1>
 </div>
 
 <div align="left">
@@ -128,8 +128,8 @@
   </a>
 </div>
 
-<div align="left">
-  <h1 style="font-weight:bold">My Contributions 🛂 </h1>
+<div align="center">
+  <h1 style="font-weight:bold">My Contributions 🛂</h1>
   <img src="https://raw.githubusercontent.com/mdhralif/mdhralif/output/snake.svg" alt="Snake animation" />
 
 
