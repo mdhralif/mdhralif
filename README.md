@@ -76,8 +76,6 @@
 <br /><br />
 
 ---
-#
-
 <div align="left">
   <h1 style="font-weight:bold">📊 GitHub Statistics</h1>
 </div>
