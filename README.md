@@ -98,40 +98,40 @@
   <a href="https://github.com/mdhralif/Nexbook">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/nexbook.png" alt="Social_Media_Prototyping" width="195"/>
   </a>
-  <a href="https://github.com/mdhralif">
+  <a href="https://github.com/mdhralif/Realtime_Chat_Application">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/NexTalk.png" alt="Realtime_Chat_App" width="195"/>
   </a>
-  <a href="https://github.com/mdhralif">
+  <a href="https://github.com/mdhralif/nexmeet">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/nexmeet.png" alt="nexmeet" width="195"/>
   </a>
-  <a href="https://github.com/mdhralif">
+  <a href="https://github.com/mdhralif/IUT_Website_Prototyping">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/iut_web.jpg" alt="iut_web_prototyping" width="195"/>
   </a>
-  <a href="https://github.com/mdhralif">
+  <a href="https://github.com/mdhralif/portfolio">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/prtflo.jpg" alt="portfolio" width="195"/>
   </a>
-  <a href="https://github.com/mdhralif">
+  <a href="https://mycanvasweb.wixsite.com/my-site">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/ecom.jpg" alt="WIX-E-commerce_website" width="195"/>
   </a>
-  <a href="https://github.com/mdhralif">
+  <a href="https://github.com/mdhralif/Fluppy_Bird">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/Flupp.jpg" alt="Fluppy_Bird_Game" width="195"/>
   </a>
-  <a href="https://github.com/mdhralif">
+  <a href="https://github.com/mdhralif/IUT_CRAFTING">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/minecraft.png" alt="Minecraft_Prototyping" width="195"/>
   </a>
-  <a href="https://github.com/mdhralif">
+  <a href="https://github.com/mdhralif/Flight_Club">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/fight.jpg" alt="2V2_Fighting_Game" width="195"/>
   </a>
-  <a href="https://github.com/mdhralif">
+  <a href="https://github.com/mdhralif/Inventory-Management-System">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/inventory.png" alt="Inventory_mManagement_System" width="195"/>
   </a>
-  <a href="https://github.com/mdhralif">
+  <a href="https://github.com/mdhralif/MathHub">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/graph.jpg" alt="Console_Advance_Graph_Calculator" width="195"/>
   </a>
-  <a href="https://github.com/mdhralif">
+  <a href="https://github.com/mdhralif/Mini_Projects">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/calculator.jpg" alt="Basic_Calculator" width="195"/>
   </a>
-  <a href="https://github.com/mdhralif">
+  <a href="https://github.com/mdhralif/Bus-reservation-system">
     <img src="https://raw.githubusercontent.com/mdhralif/portfolio/main/bus.png" alt="Bus_Reservationn_System" width="195"/>
   </a>
 </div>
