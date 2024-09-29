@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&weight=600&size=30&pause=1000&random=false&width=435&lines=%F0%9F%98%8E+MD+H+R+ALIF)](https://git.io/typing-svg)
 
 
-**`A passionate (Web Developer/Game Developer/Graphics & ui-ux Designer)`**
+**`A passionate (Web Developer/Graphics & ui-ux Designer)`**
 
 
 <div align="left"> 
